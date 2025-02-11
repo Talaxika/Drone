@@ -1,0 +1,1 @@
+constexpr int ENABLE_PRINTS = 0; // 0 = disabled

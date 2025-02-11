@@ -1,0 +1,12 @@
+# Add subdirectories for different components
+add_subdirectory(actuators)
+add_subdirectory(communication)
+add_subdirectory(sensors)
+add_subdirectory(filters)
+add_subdirectory(kinematics)
+# add_subdirectory(ai)
+add_subdirectory(motors)
+add_subdirectory(peripherals)
+add_subdirectory(power)
+# add_subdirectory(input)
+# add_subdirectory(networking)
